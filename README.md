@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://github.com/Ivysim/Ivy_Sim/blob/main/IVY%20WORK%20PIC.png)
 
 <!-- Add your details -->
 
