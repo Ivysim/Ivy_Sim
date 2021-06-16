@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/Ivysim/Ivy_Sim/blob/main/IVY%20WORK%20PIC.png)
+![alt text](https://raw.githubusercontent.com/Ivysim/Ivy_Sim/main/IVY%20WORK%20PIC.png)
 
 <!-- Add your details -->
 
