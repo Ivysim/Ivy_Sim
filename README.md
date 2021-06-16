@@ -3,7 +3,7 @@
 
 <!-- Add your details -->
 ✉️: isim_5@hotmail.com 
-&nbsp;&nbsp; 📲 +65-XXXXXXXXXX
+&nbsp;&nbsp; 📲 +65-94595494
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/simivy/) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
 <!-- CONTACT Section Ends -->
